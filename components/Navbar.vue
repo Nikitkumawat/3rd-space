@@ -188,10 +188,10 @@ export default {
       this.isMobileMenuOpen = !this.isMobileMenuOpen;
     },
     toggleDropdown(key) {
-      console.log(`Toggling Dropdown: ${key}`); // Debugging
-      console.log("Before Toggle:", this.mobileDropdown[key]); // Debugging
+      console.log(`Toggling Dropdown: ${key}`);
+      console.log("Before Toggle:", this.mobileDropdown[key]);
       this.mobileDropdown[key] = !this.mobileDropdown[key];
-      console.log("After Toggle:", this.mobileDropdown[key]); // Debugging
+      console.log("After Toggle:", this.mobileDropdown[key]);
     },
   },
 };
