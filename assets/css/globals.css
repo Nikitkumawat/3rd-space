@@ -1,3 +1,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+@font-face {
+    font-family: 'Brown LL';
+    src: url('@/assets/fonts/BrownLL-Regular.woff2') format('woff2'),
+         url('@/assets/fonts/BrownLL-Regular.woff') format('woff');
+  
+  }

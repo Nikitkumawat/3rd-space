@@ -12,8 +12,10 @@
   "dependencies": {
     "@heroicons/vue": "^2.2.0",
     "@mdi/font": "^7.4.47",
+    "@styled-icons/bootstrap": "^10.47.0",
     "flowbite": "^2.5.2",
     "nuxt": "^3.14.1592",
+    "styled-components": "^6.1.14",
     "vue": "latest",
     "vue-router": "latest"
   },
