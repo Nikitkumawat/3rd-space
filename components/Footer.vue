@@ -170,5 +170,5 @@ export default {
   font-family: "Brown LL", sans-serif;
 }
 /* Import FontAwesome Icons */
-@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css");
+/* @import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"); */
 </style>
