@@ -122,6 +122,14 @@ export default {
   height: 600px;
 }
 
+@media (min-width: 982px) {
+  .bg-container {
+    height: 725px;
+  }
+  .search-container {
+    bottom: 4rem;
+  }
+}
 @media (max-width: 600px) {
   .custom-heading {
     font-size: 32px;

@@ -37,7 +37,6 @@
         <div class="flex justify-start">
           <v-btn
             class="learn-more-btn custom-text"
-            color="yellow"
             dark
             href="#"
             style="
@@ -92,7 +91,7 @@ export default {
 
 /* Button Styles */
 .learn-more-btn {
-  background: #ffc905;
+  background-color: #ffc905;
   color: #314218;
   border-radius: 20px;
   font-weight: 600;
